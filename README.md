@@ -2,14 +2,14 @@
 
 Projeto desenvolvido para praticar lógica de programação, programação orientada a objetos e menus interativos em Python.
 
-## Funcionalidades
+##  Funcionalidades
 - Cadastrar alunos com nome e nota
 - Validar notas (0 a 10)
 - Listar alunos e situação (Aprovado/Reprovado)
 - Calcular média da turma
 - Exibir resumo geral
 
-## Conceitos utilizados
+##  Conceitos utilizados
 - Classes e objetos
 - Funções
 - Listas
@@ -18,6 +18,6 @@ Projeto desenvolvido para praticar lógica de programação, programação orien
 - Tratamento de exceções (`try/except`)
 - Organização de código em módulos
 
-## Como executar
+##  Como executar
 ```bash
 python main.py
